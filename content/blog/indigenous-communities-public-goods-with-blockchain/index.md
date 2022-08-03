@@ -26,7 +26,7 @@ In the coming months, a public goods project involving indigenous aspects will b
 
 ## Reading Further:
 
-* [Lakota Language Consortium](https://lakhota.org/)
+* ~~[Lakota Language Consortium]~~(https://lakhota.org/) Update: [Lakota elders helped a white man preserve their language. Then he tried to sell it back to them.](https://www.nbcnews.com/news/us-news/native-american-language-preservation-rcna31396)
 * [Pine Ridge Indian Reservation](http://en.wikipedia.org/wiki/Pine_Ridge_Indian_Reservation)
 * [SIOUX YMCA](https://www.siouxymca.org/)
 * [Thunder Valley](https://www.thundervalley.org/)
