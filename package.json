@@ -8,6 +8,7 @@
     "url": "https://github.com/wangonya/flexible-gatsby/issues"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001374",
     "gatsby": "^3.7.0",
     "gatsby-plugin-feed": "^3.7.0",
     "gatsby-plugin-google-analytics": "^3.7.0",
